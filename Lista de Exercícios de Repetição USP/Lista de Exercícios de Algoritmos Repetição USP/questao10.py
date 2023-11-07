@@ -1,0 +1,1 @@
+# A questão 10 é igual a questão 3
